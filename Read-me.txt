@@ -1,0 +1,3 @@
+To run this program,first the server needs to be run then the client.
+For running multiple client from power shell/idle-python/cmd is used as 
+py-charm doesn't support same program running in parallel.
